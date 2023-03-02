@@ -161,3 +161,61 @@
 //	getchar();
 //	return 0;
 //}
+
+
+//int main()//水仙花数
+//{
+//	int x=0;
+//	int y=0;
+//	int z=0;
+//	int i;
+//
+//	for (i=100;i<=999;i++)
+//	{
+//		x=i/100%10;
+//		y=i/10%10;
+//		z=i%10;
+//
+//	if(i ==(x*x*x + y*y*y + z*z*z))
+//	{
+//		printf("%d 是水仙花数\n",i);
+//	}
+//	}
+//	getchar();
+//	return 0;
+//}
+
+
+//int main()//正整数分解质因数
+//{
+//	int m=90;
+//	int i;
+//
+//	printf("%d=",m);
+//	for(i=2;i<=m;i++)
+//	{
+//		while(m%i==0)
+//		{
+//			printf("%d",i);
+//			m=m/i;
+//			if(m!=1)
+//			{
+//				printf("*");
+//			}
+//		}
+//
+//	}
+//	getchar();
+//	return 0;
+//}
+
+//
+//int main ()//条件运算符嵌套
+//{
+//	int score=95 ;
+//	char grade;
+//	grade = ((score>=90)?'A' : (score>=60)? 'B':'C');//?是否为 :否则为
+//	printf("grade= %c\n",grade);
+//	getchar();
+//	return 0;
+//}
