@@ -1,4 +1,4 @@
-﻿生成启动时间为 2023/3/28 17:13:04。
+﻿生成启动时间为 2023/3/31 10:33:36。
      1>项目“C:\Users\ZJOops\Desktop\github上传\Learning_record\Project2\Project2\Project2.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
          D:\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
@@ -10,4 +10,4 @@
 
 生成成功。
 
-已用时间 00:00:00.31
+已用时间 00:00:00.77
